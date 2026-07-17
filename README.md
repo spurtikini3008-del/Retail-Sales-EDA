@@ -12,7 +12,7 @@ To perform Exploratory Data Analysis (EDA) on retail sales data and identify tre
 - Jupyter Notebook
 
 # Dataset Files
-- retail_sales.csv
+retail_sales.csv
 
 # Project Workflow
 1. Data Loading
@@ -27,7 +27,6 @@ To perform Exploratory Data Analysis (EDA) on retail sales data and identify tre
 
 # Recommendations
 - Increase stock for high-selling categories.
-- Improve marketing in low-performing regions.
 - Use monthly sales trends for inventory planning.
 
 # Conclusion
